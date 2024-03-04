@@ -1,0 +1,9 @@
+/home/furkan/Documents/projects/c#/ConsoleApp2/ConsoleApp2/obj/Debug/net4.8/ConsoleApp2.csproj.AssemblyReference.cache
+/home/furkan/Documents/projects/c#/ConsoleApp2/ConsoleApp2/obj/Debug/net4.8/ConsoleApp2.AssemblyInfoInputs.cache
+/home/furkan/Documents/projects/c#/ConsoleApp2/ConsoleApp2/obj/Debug/net4.8/ConsoleApp2.AssemblyInfo.cs
+/home/furkan/Documents/projects/c#/ConsoleApp2/ConsoleApp2/obj/Debug/net4.8/ConsoleApp2.csproj.CoreCompileInputs.cache
+/home/furkan/Documents/projects/c#/ConsoleApp2/ConsoleApp2/bin/Debug/net4.8/ConsoleApp2.exe.config
+/home/furkan/Documents/projects/c#/ConsoleApp2/ConsoleApp2/bin/Debug/net4.8/ConsoleApp2.exe
+/home/furkan/Documents/projects/c#/ConsoleApp2/ConsoleApp2/bin/Debug/net4.8/ConsoleApp2.pdb
+/home/furkan/Documents/projects/c#/ConsoleApp2/ConsoleApp2/obj/Debug/net4.8/ConsoleApp2.exe
+/home/furkan/Documents/projects/c#/ConsoleApp2/ConsoleApp2/obj/Debug/net4.8/ConsoleApp2.pdb

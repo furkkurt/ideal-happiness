@@ -1,0 +1,46 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": []
+  },
+  "packageFolders": {
+    "/home/furkan/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/furkan/Documents/projects/c#/ConsoleApp2/ConsoleApp2/ConsoleApp2.csproj",
+      "projectName": "ConsoleApp2",
+      "projectPath": "/home/furkan/Documents/projects/c#/ConsoleApp2/ConsoleApp2/ConsoleApp2.csproj",
+      "packagesPath": "/home/furkan/.nuget/packages/",
+      "outputPath": "/home/furkan/Documents/projects/c#/ConsoleApp2/ConsoleApp2/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/furkan/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net48": {}
+    }
+  }
+}
